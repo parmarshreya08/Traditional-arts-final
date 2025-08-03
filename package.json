@@ -10,10 +10,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
     "aos": "^2.3.4",
-=======
->>>>>>> dad9b96b2aaaefc34e728e6c2eac8a601cda6a93
     "axios": "^1.11.0",
     "bootstrap": "^5.3.7",
     "browser-image-compression": "^2.0.2",
