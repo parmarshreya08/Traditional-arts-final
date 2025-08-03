@@ -1,4 +1,4 @@
-🏠 Home Page
+(```🏠 Home Page
 ├── Navigation bar
 │   ├── Arts
 │   │    ├── Traditional Paintings
@@ -81,7 +81,7 @@
 └── Login
     └── Login/ Signup
 
-
+```)
 -----------------------------------------------------------------------------------------------
 
 #  Kalakriti — A Celebration of Indian Traditional Arts
