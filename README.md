@@ -1,70 +1,175 @@
-# Getting Started with Create React App
+🏠 Home Page
+├── Navigation bar
+│   ├── Arts
+│   │    ├── Traditional Paintings
+│   │    │        ├── Buy Paintings
+│   │    │        ├── Add to Cart
+│   │    │        └── Wishlist
+│   │    │
+│   │    ├── Folk Dance
+│   │    │      ├── Folk Dances of India
+│   │    │      ├── Dance tutorial by Artists
+│   │    │      └── Glimpses of Indian Folk Dances
+│   │    │ 
+│   │    ├── Handicrafts
+│   │    │      ├── Handicrafts slideshow
+│   │    │      └── Buy Indian Handicrafts
+│   │    │ 
+│   │    └── Gallery
+│   │           ├── Tanjore Painting
+│   │           ├── Folk Art
+│   │           ├── Madhubani Painting
+│   │           ├── Kishangarh Painting
+│   │           ├── South Indian Painting
+│   │           ├── Pichwai Painting
+│   │           └── Kalamkari Painting
+│   │
+│   ├── About Us
+│   ├── Contact
+│   ├── Games
+│   ├── Upload
+│   ├── Artists
+│   ├── Events
+│   ├── Cart
+│   ├── Wishlist
+│   └── Login
+│
+│
+├── About Us
+│   ├── About Kalakriti
+│   ├── Our Mission
+│   ├── What we celebrate
+│   ├── Our Story
+│
+├── Contact 
+│   ├── Send Message
+│   ├── Get In Touch
+│   ├── Why reach out to us
+│   └── Frequently Asked Questions
+│
+├── Games
+│   ├── Memory Match
+│   ├── Snake and Ladder
+│   ├── Art Puzzle
+│   └── ShabdKala
+│
+├── Upload
+│   ├── Upload your Artwork
+│   └── Art gallery
+│
+└── Artists
+│   ├── Featured Artists
+│   │   ├── Artist Description
+│   │   └── Artists Artwork
+│   │
+├── Events
+│   ├── Upcoming Events
+│   │   └── Events Description
+│   └── Completed Events
+│       └── Events Description
+│
+├── Cart
+│   ├── Your Cart Details
+│   ├── Product Information
+│   └── Payment
+│
+├── Wishlist
+│   ├── Wishlisted Products
+│   ├── Product Information
+│   └── Payment
+│
+└── Login
+    └── Login/ Signup
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+-----------------------------------------------------------------------------------------------
 
-In the project directory, you can run:
+#  Kalakriti — A Celebration of Indian Traditional Arts
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+> “Every art form carries a story — Kalakriti brings those stories to life.”
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+##  About the Project
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Kalakriti** is an interactive web platform built to showcase, preserve, and celebrate the stunning diversity of India’s traditional arts — from folk paintings to classical dances, tribal crafts to regional textile designs.
 
-### `npm run build`
+What makes Kalakriti different? It’s not just a digital museum — it’s an **experience**. With knowledge and games, Kalakriti invites users to *feel* the culture, not just scroll through it.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##  Why Kalakriti?
 
-### `npm run eject`
+In a time where global media dominates attention, India’s indigenous art forms often go unseen. Kalakriti aims to solve:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-  The **disconnect** between modern youth and their cultural roots.
+-  The **underrepresentation** of Indian folk art online.
+-  The **loss of knowledge** as oral and traditional forms fade over time.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Kalakriti digitizes this heritage with intention and interactivity — to preserve, share, and spark curiosity.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🛠️ Tech Stack
 
-## Learn More
+- **Frontend**: React.js  
+- **Styling**: CSS  
+- **Database**: MongoDB  
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+##  Features
 
-### Code Splitting
+###  Interactive Gallery
+- Explore diverse Indian art forms like **Madhubani**, **Warli**, **Kalamkari**, and **Pattachitra**.
+- Hover effects, modal previews, and background stories for each artwork.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+###  Game Section
+- Fun way to engage users while introducing them to unique styles.
 
-### Analyzing the Bundle Size
+###  Learn with Play
+- Educational snippets embedded into the UI to teach users the origin and meaning of each art form.
+- Dynamic, color-rich interfaces with smooth transitions.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+###  Wishlist + Cart
+- Built-in wishlist and cart UI to simulate a real-world scenario.
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+##  What Sets It Apart?
 
-### Advanced Configuration
+-  **Cultural Authenticity**: Focused research into each art form — not just pretty visuals.
+-  **Youth-Centric Design**: Made with the intention to connect with Gen Z and young learners.
+-  **Gamification**: Turning culture into a playable, interactive format.
+-  **Personal Touch**: Every page is a reflection of the creator’s personal love for Indian culture.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+##  Future Scope
 
-### `npm run build` fails to minify
+- Add **voice-guided storytelling** in regional languages.
+- Collaborate with **local artisans** to create an e-commerce extension.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+##  Contributions
+
+Open to collaborators who are passionate about:
+- Indian culture & storytelling
+- UI/UX design
+- Game development
+- Content writing in regional languages
+
+Parmar Shreya - parmarshreya08
+Sravanthi Vadle - Sravanthi2727
+Nandana J - user-houseplant
+Awadhi Jain - awadhi06
+ 
+---
+
+> Built with heart, heritage, and a little bit of CSS chaos 
+
+
