@@ -80,7 +80,7 @@
 │
 └── Login
     └── Login/ Signup</pre>
-<pre>-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 #  Kalakriti — A Celebration of Indian Traditional Arts
 
@@ -154,7 +154,7 @@ Kalakriti digitizes this heritage with intention and interactivity — to preser
 ---
 
 ##  Contributions
-
+<pre>
 Open to collaborators who are passionate about:
 - Indian culture & storytelling
 - UI/UX design
