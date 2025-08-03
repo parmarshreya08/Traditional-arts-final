@@ -46,7 +46,7 @@ const ShowEvent = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    fetch(`http://localhost:5000/api/events/${id}`)
+    fetch(`https://traditional-arts-b.onrender.com/api/events/${id}`)
       .then((res) => {
         if (!res.ok) throw new Error("Failed to fetch event data.");
         return res.json();
