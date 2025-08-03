@@ -154,20 +154,20 @@ Kalakriti digitizes this heritage with intention and interactivity — to preser
 ---
 
 ##  Contributions
-<pre>
+
 Open to collaborators who are passionate about:
 - Indian culture & storytelling
 - UI/UX design
 - Game development
 - Content writing in regional languages
 
-Parmar Shreya - parmarshreya08
-Sravanthi Vadla - Sravanthi2727
-Nandana J - user-houseplant
-Awadhi Jain - awadhi06
+Parmar Shreya - parmarshreya08 <br>
+Sravanthi Vadla - Sravanthi2727 <br>
+Nandana J - user-houseplant <br>
+Awadhi Jain - awadhi06<br>
  
 ---
 
 > Built with heart, heritage, and a little bit of CSS chaos 
-</pre>
+
 
