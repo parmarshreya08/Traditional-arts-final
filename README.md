@@ -80,7 +80,7 @@
 │
 └── Login
     └── Login/ Signup</pre>
------------------------------------------------------------------------------------------------
+<pre>-----------------------------------------------------------------------------------------------
 
 #  Kalakriti — A Celebration of Indian Traditional Arts
 
@@ -162,12 +162,12 @@ Open to collaborators who are passionate about:
 - Content writing in regional languages
 
 Parmar Shreya - parmarshreya08
-Sravanthi Vadle - Sravanthi2727
+Sravanthi Vadla - Sravanthi2727
 Nandana J - user-houseplant
 Awadhi Jain - awadhi06
  
 ---
 
 > Built with heart, heritage, and a little bit of CSS chaos 
-
+</pre>
 
